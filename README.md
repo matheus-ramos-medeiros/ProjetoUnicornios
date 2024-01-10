@@ -1,6 +1,6 @@
 # Projeto Unicórnio
 <p> Usando a linguagem Python e alguns pacotes como Pandas, Numpy, Matplotlib e Seaborn. Realizei algumas análises sobre essas empresas.</p>
-<p>Onde carregei os dados pelo meu gogle drive e fiz todo o tratamento de ETL.</p>
+<p>Onde carreguei os dados pelo meu google drive e fiz todo o tratamento de ETL.</p>
 <h1>Análise de Empresas Unicórnios</h1>
 <p>Este projeto consiste em uma análise das empresas unicórnios que alcançaram uma avaliação de mercado de US$1 bilhão ou mais. A análise abrange o período de 2001 a 2021 e se concentra no número de empresas unicórnios por ano, as regiões geográficas com o maior número de empresas unicórnios e os setores mais representados por essas empresas.</p>
 <h2>Dados</h2>
